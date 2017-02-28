@@ -65,7 +65,6 @@
   <ItemGroup>
     <Compile Include="Models\DeleteMessagesResponseModel.cs" />
     <Compile Include="Models\SendMessageResponseModel.cs" />
-    <Compile Include="Repositories\SampleQueueRepository.cs" />
     <Compile Include="Repositories\BaseSQSRepository.cs" />
     <Compile Include="Repositories\UnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
